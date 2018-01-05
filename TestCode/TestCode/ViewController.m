@@ -12,7 +12,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-
+    NSLog(@"ksdjf;klasjdf;lkasjfdl;");
     // Do any additional setup after loading the view.
 }
 

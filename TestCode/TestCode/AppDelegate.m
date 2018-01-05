@@ -23,6 +23,9 @@
     // Insert code here to tear down your application
     
     NSLog(@"hello");
+    NSLog(@"hello");
+    NSLog(@"hello");
+    NSLog(@"hello");
     
 }
 
